@@ -1,0 +1,30 @@
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
+		 
+		  		{color: orange; font-family: Roboto, Arial, sans-serif}
+
+
+		 body {font-family: Roboto, Arial, sans-serif; background-color: #eeeeee}
+
+		  {
+		    padding: 40;
+ 		   margin: 40;
+  		}
+
+ 		 .fit { /* set relative picture size */
+ 		   max-width: 100%;
+ 		   max-height: 100%;
+ 		 }
+ 		 .center {
+ 		   display: block;
+  		  margin: auto;
+ 		 }
+ 		 .site-footer {  padding: 1em;
+  			background: black; color: white;	
+		font-size: .75em
+		}
+		#banner { padding: 1em;
+  			background: black; color: white;	
+		font-size: .75em
+		}
+
+		 a{color: orange;}
